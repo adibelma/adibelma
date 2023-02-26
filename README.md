@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADIB ELMARBOUT</h1>
 <h3 align="center">Software Engineer Student at ALX SE Programme
-<h3Curious and passionate about IT and cyber security. Knowledge of these technologies allows me to acquire new skills that are in line with the current and future needs of companies.</h3>
+<h3 align="center"> Curious and passionate about IT and cyber security. Knowledge of these technologies allows me to acquire new skills that are in line with the current and future needs of companies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
